@@ -21,4 +21,6 @@ Petiya, S. (2014). *Building a semantic web of comics: Publishing linked data in
 
 Petiya, S. (2014). Best practice poster: Converting personal comic book collection records to linked data. In W. Moen & A. Rushing (Eds.), *Proceedings of the International Conference on Dublin Core and Metadata Applications* (pp. 222-224). Austin, TX: Dublin Core Metadata Initiative.
 
+test
+
 
